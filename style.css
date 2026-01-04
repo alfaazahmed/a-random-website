@@ -1,6 +1,31 @@
+body {
+    background-color: rgb(238, 222, 197);
+}
+
+.firstdiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .hone {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: rgb(101, 191, 101);
+    color: rgb(255, 4, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
+    padding-top: 20px;
+
+}
+
+.paraone {
+    height: fit-content;
+    width: 1000px;
+    color: rgb(0, 68, 255);
+    font-size: 30px;
+    font-family: cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
